@@ -1,5 +1,4 @@
-#x-app-id: app_82c4cd3ab82b4716b078d992
-#x-app-key: nix_live_4za7BtaTzGIumIdWJgaBbnBnsx2CxRpV
+
 from ctypes import HRESULT
 import os
 import requests
